@@ -12,8 +12,8 @@
 This is an empty framework, to be used to create SMART Implementation Guides.
 
 CI Build: 
-* http://build.fhir.org/ig/{owner}/{repo}
-* http://{owner}.github.io/{repo}
+   * http://build.fhir.org/ig/alem5202/FHIRalem
+   * http://alem5202.github.io/FHIRalem
 
 
 Please see these [instructions](https://smart.who.int/ig-starter-kit/ig_setup.html#github-setup)
